@@ -17,6 +17,7 @@ The subject of the task is to implement a web application for task management. T
 - Java 11 with HttpExchange and HttpServer of Java Standard Library
 - Gson
 - REST API
+- JUnit tests
 
 
 ## Features
